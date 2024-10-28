@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*start header section*/
+.hadeer {
+    right: 0;
+    left: 0;
+    top: 43%;
+}
+
+nav {
+    z-index: 999999999;
+}
+
+/*end header secti*/
+
+.carousel-indicators li{
+
+background-color: rgb(155, 7, 7);
+
+
+}
